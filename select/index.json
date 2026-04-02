@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Hurt Locker",
+  "base_artist": "FINNEAS",
+  "createdAt": "2026-04-02T05:23:53.062313Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hurt Locker",
+      "artist": "Finneas",
+      "has_synced": true,
+      "path": "select/01_Hurt_Locker_Finneas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hurt Locker",
+      "artist": "Burner",
+      "has_synced": true,
+      "path": "select/02_Hurt_Locker_Burner.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "When Love Explodes (Love Theme from \"Hurt Locker: The Musical\")",
+      "artist": "Hedwig and the Angry Inch - Original Broadway Cast",
+      "has_synced": true,
+      "path": "select/03_When_Love_Explodes_(Love_Theme_from__Hurt_Locker__The_Musical_)_Hedwig_and_the_Angry_Inch_-_Original_Broadway_Cast.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "When Love Explodes (Love Theme From 'Hurt Locker: The Musical')",
+      "artist": "Hedwig & The Angry Inch",
+      "has_synced": true,
+      "path": "select/04_When_Love_Explodes_(Love_Theme_From_'Hurt_Locker__The_Musical')_Hedwig_&_The_Angry_Inch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hurt Locker",
+      "artist": "9MUSES",
+      "has_synced": false,
+      "path": "select/05_Hurt_Locker_9MUSES.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "다쳐 (Hurt Locker)",
+      "artist": "9MUSES",
+      "has_synced": true,
+      "path": "select/06_다쳐_(Hurt_Locker)_9MUSES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hurt Locker",
+      "artist": "FINNEAS",
+      "has_synced": true,
+      "path": "select/07_Hurt_Locker_FINNEAS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hurt Locker (Main)",
+      "artist": "Xzibit",
+      "has_synced": true,
+      "path": "select/08_Hurt_Locker_(Main)_Xzibit.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Hurt Locker",
+      "artist": "Marco Beltrami and Buck Sanders",
+      "has_synced": false,
+      "path": "select/09_The_Hurt_Locker_Marco_Beltrami_and_Buck_Sanders.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Hurt Locker",
+      "artist": "Beltrami, Marco and Sanders, Buck",
+      "has_synced": false,
+      "path": "select/10_The_Hurt_Locker_Beltrami,_Marco_and_Sanders,_Buck.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hurt Locker",
+      "artist": "Xzibit",
+      "has_synced": true,
+      "path": "select/11_Hurt_Locker_Xzibit.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hurt Locker (Explicit)",
+      "artist": "Xzibit",
+      "has_synced": true,
+      "path": "select/12_Hurt_Locker_(Explicit)_Xzibit.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Hurt Locker",
+      "artist": "Marco Beltrami &  Buck Sanders",
+      "has_synced": false,
+      "path": "select/13_The_Hurt_Locker_Marco_Beltrami_&_Buck_Sanders.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hurt Locker",
+      "artist": "Finneas",
+      "has_synced": true,
+      "path": "select/14_Hurt_Locker_Finneas.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "다쳐 (Hurt Locker)",
+      "artist": "나인뮤지스",
+      "has_synced": true,
+      "path": "select/15_다쳐_(Hurt_Locker)_나인뮤지스.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Hurt Locker",
+      "artist": "Marco Beltrami; Buck S",
+      "has_synced": false,
+      "path": "select/16_The_Hurt_Locker_Marco_Beltrami;_Buck_S.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hurt Locker",
+      "artist": "Revel In Flesh",
+      "has_synced": false,
+      "path": "select/17_Hurt_Locker_Revel_In_Flesh.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hurt Locker",
+      "artist": "FINNEAS",
+      "has_synced": false,
+      "path": "select/pl_01_Hurt_Locker_FINNEAS.txt"
+    }
+  ]
+}
